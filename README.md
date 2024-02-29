@@ -1,2 +1,2 @@
-# Amazon
+# Amazon-Clone
 Author - Vidya Snehil
